@@ -1,1 +1,2 @@
-# devops-aula05 https://github.com/VictorDavid21/devops-aula05.git
+# devops-aula05 
+Victor Augusto David (1903628) e Humberto Hibrael Mendes dos Santos Trevisani (16000298)
